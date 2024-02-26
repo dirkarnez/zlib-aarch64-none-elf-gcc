@@ -9,3 +9,4 @@ zlib-aarch64-none-elf-gcc
         exit 1
     fi
     ```
+- overwrite `CMakeLists.txt`, basically only static library should be compiled
